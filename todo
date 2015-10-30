@@ -1,0 +1,18 @@
+** Fixes **
+If li Yuan chases off the pirates you get the percentage of the loot from your previous attacks.
+Change the rate at which a gun gets destroyed in battle
+Fix li yuan's envoy option, (if you tell him no in hong kong, they just continue to ask you to go back to hong kong to talk to the guy).
+If you lose all guns in a battle it will automatically change from fight to run.
+
+** New Features **
+Starting options are either trader or pirate (pirates cannot trade, traders can only run and gun in a fight)
+Option to repair ship at every 'friendly' port
+Option to buy a new ship at every 'friendly' port
+Option to buy a new gun (pirate only) at every 'friendly' port
+Each port will have a harbor master, tavern, brokerage office.
+	Harbor master lets you buy, sell, and gives information on weather and pirates or traders in the area (for a price).  He is also where you go to resupply your ship for crew needs at sea.  He can also repair your ship, sell you guns, or a new ship.
+	Tavern lets you buy a wench for the night who can also give you information on pirates, traders or other special options (contract killings)  Taverns are also where you can also buy mercenaries/bodyguards and find new or more crew memebers.
+	Brokerage office is for traders only, gives you set prices and routes for goods, less risky trade through a broker but not as good returns.
+Travel routes show number of days before you depart.
+Ships log shows how many days worth of supplies you have for your crew.  They also keep a running database on all crew memebers, their loyalty to you, ships statistics, including guns, seaworthyness, and cargo (where you purchased it and for what price).  Logs will also show you what contracts you are currently on.
+Expanded shipping ports, some will be hostile to you, others will not.  Some will accept only certain goods others will not.  See the broker for more details.
